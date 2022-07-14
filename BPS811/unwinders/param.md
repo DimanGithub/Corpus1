@@ -1,5 +1,5 @@
-#Lenze9300
-##волокнина
+# Lenze9300
+## волокнина
 472/1 - стартовый диаметр
 472/2 - minimum roll
 472/3 - null speed (disable I in PID ect.)
